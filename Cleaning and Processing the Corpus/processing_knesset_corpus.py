@@ -356,15 +356,12 @@ def process_documents(folder_path, output_file):
 
 
 if __name__ == "__main__":
-    # if len(sys.argv) != 3:
-    #     sys.exit(1)
+    if len(sys.argv) != 3:
+        sys.exit(1)
 
-    # # Get input folder and output file from command-line arguments
-    # input_folder = sys.argv[1]
-    # output_file = sys.argv[2]
-
-    input_folder = r"C:\Users\adans\OneDrive\שולחן העבודה\Courses\Natural_Language_Processing\HW1\knesset_protocols"
-    output_file = r"C:\Users\adans\OneDrive\שולחן העבודה\Courses\Natural_Language_Processing\HW1\out.json"
+    # Get input folder and output file from command-line arguments
+    input_folder = sys.argv[1]
+    output_file = sys.argv[2]
 
     # Run the main function
     process_documents(input_folder, output_file)
