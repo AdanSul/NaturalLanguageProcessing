@@ -19,6 +19,7 @@ This repository showcases hands-on projects in NLP, focusing on:
 - Building models from scratch,
 - Representation and comparison of sentences using advanced techniques.
 
+
   
 ## Projects
 
