@@ -25,4 +25,12 @@ This repository showcases hands-on projects in NLP, focusing on:
 
 ### Cleaning and Processing the Corpus
 
+Developed methods to preprocess the corpus and extract key information, such as identifying names and capturing dialogue.
+
+
+
+
+
+
+
 
