@@ -5,7 +5,7 @@ Welcome to this repository dedicated to Natural Language Processing (NLP). Here,
 ## Table of Contents
 - [Introduction](#introduction)
 - [Projects](#Projects)
-  - [Cleaning and Processing the Corpus](#Cleaning and Processing the Corpus)
+  - [Cleaning and Processing the Corpus](#Cleaning-and-Processing-the-Corpus)
   - jn
 
 
