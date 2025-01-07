@@ -7,6 +7,7 @@ Welcome to this repository dedicated to Natural Language Processing (NLP). Here,
 - [Projects](#Projects)
   - [Cleaning and Processing the Corpus](#Cleaning-and-Processing-the-Corpus)
   - [Building Language Models and Collections](#Building-Language-Models-and-Collections)
+  - [Text Classification](#Text-Classification)
   
 
 ## Introduction
@@ -34,6 +35,9 @@ Developed methods to preprocess the corpus and extract key information, such as 
 Developed statistical language models using n-grams to analyze word predictions. Created collections to process sentence structures and extract meaningful patterns from the corpus.
 
 
+### Text Classification
+
+Developed a classification system to address linguistic challenges using machine learning models. Implemented a pipeline for training and evaluating classifiers on structured text data extracted from protocols, leveraging the scikit-learn library for advanced preprocessing and model training.
 
 
 
