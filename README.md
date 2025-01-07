@@ -28,6 +28,9 @@ This repository showcases hands-on projects in NLP, focusing on:
 Developed methods to preprocess the corpus and extract key information, such as identifying names and capturing dialogue.
 
 
+### Building Language Models and Collections
+
+Developed statistical language models using n-grams to analyze word predictions. Created collections to process sentence structures and extract meaningful patterns from the corpus.
 
 
 
