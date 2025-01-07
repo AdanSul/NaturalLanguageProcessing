@@ -1,0 +1,60 @@
+original_sentence: ( נושא דברים בשפה הערבית ; להלן תרגומם לעברית: בשם האל הרחמן והרחום , חברי המאזינים , הנושא הוא חוק ההסדרים , כידוע לכולם .
+masked_sentence: ( נושא דברים בשפה הערבית ; להלן תרגומם לעברית: בשם האל הרחמן והרחום , [*] [*] [*] הנושא הוא חוק ההסדרים , כידוע לכולם .
+plenary_sentence: ( נושא דברים בשפה הערבית ; להלן תרגומם לעברית: בשם האל הרחמן והרחום , חברי הכנסת , הנושא הוא חוק ההסדרים , כידוע לכולם .
+plenary_tokens: חברי,הכנסת,,
+probability of plenary sentence in plenary corpus: -281.00
+probability of plenary sentence in committee corpus: -323.78
+original_sentence: << דובר >> דיברתי על הבטיחות , אם זה נבדק .
+masked_sentence: << דובר >> דיברתי על הבטיחות , אם זה [*] .
+plenary_sentence: << דובר >> דיברתי על הבטיחות , אם זה לא .
+plenary_tokens: לא
+probability of plenary sentence in plenary corpus: -138.46
+probability of plenary sentence in committee corpus: -100.00
+original_sentence: אי אפשר להטיל את זה על אדם יחיד .
+masked_sentence: אי אפשר להטיל את [*] על אדם יחיד .
+plenary_sentence: אי אפשר להטיל את החוק על אדם יחיד .
+plenary_tokens: החוק
+probability of plenary sentence in plenary corpus: -109.13
+probability of plenary sentence in committee corpus: -102.22
+original_sentence: יש לנו קנים במושבים , בקיבוצים , בערים , בכפרים הערביים , בכפרים הדרוזיים .
+masked_sentence: יש לנו קנים במושבים , בקיבוצים , בערים [*] בכפרים [*] , בכפרים הדרוזיים .
+plenary_sentence: יש לנו קנים במושבים , בקיבוצים , בערים מוטבעים בכפרים מוטבעים , בכפרים הדרוזיים .
+plenary_tokens: מוטבעים,מוטבעים
+probability of plenary sentence in plenary corpus: -196.49
+probability of plenary sentence in committee corpus: -185.44
+original_sentence: הצבעה מס ' 23 בעד ההסתייגות – 20 נגד – 57 נמנעים – 1 ההסתייגות של קבוצת חבר הכנסת י ' פריצקי וחברי הכנסת א ' פינס - פז , א ' צינקר , ר ' ברונפמן , ע ' חוגי , אמ ' כהן , י ' סבן ור ' מלול לסעיף 18 ( 5 ) לא נתקבלה .
+masked_sentence: הצבעה [*] ' 23 בעד ההסתייגות – 20 נגד – 57 נמנעים – 1 ההסתייגות של קבוצת חבר הכנסת י ' פריצקי וחברי הכנסת א [*] פינס - פז , א ' צינקר , ר [*] ברונפמן , [*] ' חוגי , אמ ' כהן , י ' סבן ור ' מלול לסעיף 18 ( 5 ) [*] [*] .
+plenary_sentence: הצבעה מוטבעים ' 23 בעד ההסתייגות – 20 נגד – 57 נמנעים – 1 ההסתייגות של קבוצת חבר הכנסת י ' פריצקי וחברי הכנסת א ' פינס - פז , א ' צינקר , ר ' ברונפמן , ע ' חוגי , אמ ' כהן , י ' סבן ור ' מלול לסעיף 18 ( 5 ) , התשס"ו .
+plenary_tokens: מוטבעים,',',ע,,,התשס"ו
+probability of plenary sentence in plenary corpus: -647.93
+probability of plenary sentence in committee corpus: -779.00
+original_sentence: ישנה חשדנות מצד לפחות 50 אחוז מהציבור בארץ משום שעד היום סאטירה לא נתנו גם לימין וגם לשמאל , עשו סאטירה שהיתה שמאלנית וכולם מודים בזה וחבל להתווכח על זה .
+masked_sentence: ישנה חשדנות מצד לפחות 50 אחוז מהציבור בארץ משום שעד היום סאטירה לא נתנו גם לימין וגם לשמאל , עשו [*] [*] שמאלנית וכולם מודים בזה [*] להתווכח על זה .
+plenary_sentence: ישנה חשדנות מצד לפחות 50 אחוז מהציבור בארץ משום שעד היום סאטירה לא נתנו גם לימין וגם לשמאל , עשו והקימו ומפעילים שמאלנית וכולם מודים בזה מוטבעים להתווכח על זה .
+plenary_tokens: והקימו,ומפעילים,מוטבעים
+probability of plenary sentence in plenary corpus: -441.40
+probability of plenary sentence in committee corpus: -414.63
+original_sentence: זכותנו וחובתנו לא להסכים לכך שמה שהוחלט בכנסת ב - 1968 , על מדיניות הרפורמה , לא יבוטל שלא בדרך של החלטה לאומית .
+masked_sentence: [*] וחובתנו לא להסכים לכך שמה שהוחלט בכנסת ב - 1968 , על מדיניות הרפורמה , לא [*] שלא בדרך של החלטה לאומית .
+plenary_sentence: אני וחובתנו לא להסכים לכך שמה שהוחלט בכנסת ב - 1968 , על מדיניות הרפורמה , לא רק שלא בדרך של החלטה לאומית .
+plenary_tokens: אני,רק
+probability of plenary sentence in plenary corpus: -285.23
+probability of plenary sentence in committee corpus: -290.59
+original_sentence: לא היה לי ספק בתשובה .
+masked_sentence: לא היה [*] ספק בתשובה .
+plenary_sentence: לא היה אפשר ספק בתשובה .
+plenary_tokens: אפשר
+probability of plenary sentence in plenary corpus: -69.40
+probability of plenary sentence in committee corpus: -68.70
+original_sentence: אז מישהו שם עושה משהו לא חוקי .
+masked_sentence: אז מישהו שם עושה משהו לא [*] .
+plenary_sentence: אז מישהו שם עושה משהו לא בסדר .
+plenary_tokens: בסדר
+probability of plenary sentence in plenary corpus: -98.85
+probability of plenary sentence in committee corpus: -96.42
+original_sentence: בזה הכירו בשתי עובדות: 1 . הוותק הנצבר יש לו ערך גם ברפואה הישראלית ; 2 . האנשים האלה בדרך כלל אינם צעירים , והעניין של המבחן הופך להיות מכשול רציני עבורם .
+masked_sentence: בזה הכירו בשתי עובדות: 1 . הוותק [*] יש לו ערך גם ברפואה הישראלית [*] 2 . [*] האלה בדרך כלל אינם צעירים , והעניין של המבחן הופך להיות מכשול רציני עבורם .
+plenary_sentence: בזה הכירו בשתי עובדות: 1 . הוותק הנצבר יש לו ערך גם ברפואה הישראלית . 2 . האם האלה בדרך כלל אינם צעירים , והעניין של המבחן הופך להיות מכשול רציני עבורם .
+plenary_tokens: הנצבר,.,האם
+probability of plenary sentence in plenary corpus: -423.22
+probability of plenary sentence in committee corpus: -432.42
