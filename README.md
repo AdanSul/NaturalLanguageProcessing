@@ -8,6 +8,7 @@ Welcome to this repository dedicated to Natural Language Processing (NLP). Here,
   - [Cleaning and Processing the Corpus](#Cleaning-and-Processing-the-Corpus)
   - [Building Language Models and Collections](#Building-Language-Models-and-Collections)
   - [Text Classification](#Text-Classification)
+  - [Word Embeddings]
   
 
 ## Introduction
