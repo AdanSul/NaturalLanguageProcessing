@@ -41,5 +41,6 @@ Developed statistical language models using n-grams to analyze word predictions.
 Developed a classification system to address linguistic challenges using machine learning models. Implemented a pipeline for training and evaluating classifiers on structured text data extracted from protocols, leveraging the scikit-learn library for advanced preprocessing and model training.
 
 
+### Word Embeddings
 
 
