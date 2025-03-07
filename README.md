@@ -43,4 +43,5 @@ Developed a classification system to address linguistic challenges using machine
 
 ### Word Embeddings
 
+Trained a Word2Vec model on Knesset protocols to generate word vectors capturing semantic relationships. Evaluated word and sentence similarities using cosine similarity and explored contextual word replacements. Applied embeddings for sentence representation and classification tasks.
 
