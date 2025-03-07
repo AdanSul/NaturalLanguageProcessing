@@ -9,6 +9,7 @@ Welcome to this repository dedicated to Natural Language Processing (NLP). Here,
   - [Building Language Models and Collections](#Building-Language-Models-and-Collections)
   - [Text Classification](#Text-Classification)
   - [Word Embeddings](#Word-Embeddings)
+  - [Transformer Models and LLMs](#Transformer-Models-and-LLMs)
   
 
 ## Introduction
@@ -45,3 +46,7 @@ Developed a classification system to address linguistic challenges using machine
 
 Trained a Word2Vec model on Knesset protocols to generate word vectors capturing semantic relationships. Evaluated word and sentence similarities using cosine similarity and explored contextual word replacements. Applied embeddings for sentence representation and classification tasks.
 
+
+### Transformer Models and LLMs
+
+Fine-tuned BERT for sentiment classification on IMDB reviews. Trained GPT-2 to generate positive and negative reviews. Used FLAN-T5 for prompt-based classification, exploring zero-shot, few-shot, and instruction-based prompting. Analyzed bias in LLMs.
