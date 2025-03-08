@@ -50,3 +50,4 @@ Trained a Word2Vec model on Knesset protocols to generate word vectors capturing
 ### Transformer Models and LLMs
 
 Fine-tuned BERT for sentiment classification on IMDB reviews. Trained GPT-2 to generate positive and negative reviews. Used FLAN-T5 for prompt-based classification, exploring zero-shot, few-shot, and instruction-based prompting. Analyzed bias in LLMs.
+
